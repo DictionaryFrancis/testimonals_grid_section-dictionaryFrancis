@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/4d64a140-a12a-43f4-96db-6b1f8acbb2b6)
 
+![alt text](image.png)
+
 https://dictionaryfrancisprojeto-testimonals.netlify.app/
 
 ## Overview
@@ -24,4 +26,4 @@ The website is designed to be fully responsive, ensuring that the layout and con
   - **CSS Grid**: For two-dimensional layouts, making it easier to design complex and responsive grids.
   - **Media Queries**: For applying different styles based on screen size, ensuring the design is mobile-first and fully responsive.
 
-## Project Structure
+
