@@ -17,5 +17,48 @@
 }
 
 img {
-    width: 100%;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    height: 100%;
+    object-fit: cover;
 }
+
+body{
+    background-color: var(--Light-grayish-blue);
+    color: var(--White);
+}
+
+main{
+    flex-basis: 74.32%;
+    display: flex;
+    flex-direction: column;
+    gap: 38px;
+}
+
+aside{
+    flex-basis: 22.97%;
+    
+}
+
+h1{
+    font: 600 20px/24px var(--Font-family);
+    margin-top: 18px; 
+}
+
+h2{
+    font: 500 13px/13px var(--Font-family);
+}
+
+h3{
+    font: 500 11px/11px var(--Font-family); 
+    opacity: 0.5;
+}
+
+p{
+    font: 500 13px/18px var(--Font-family); 
+    opacity: 0.7;
+    margin-top: 16px; 
+}
+
+
